@@ -254,6 +254,17 @@ footer {
 footer small {
     color: #fff;
 }
+#video {
+    background-color:#e5e7eb;
+}
+.layout_video {
+    width:560px;
+    margin: 0 auto;
+    padding: 100px 0;
+}
+.layout_video iframe {
+    width:100%;
+}
 html {
     scroll-behavior: smooth;
 }
@@ -350,5 +361,14 @@ html {
         border:3px solid #f9faf8;
         border-radius: 10px;
         font-size: 18px;
+    }
+    .layout_video {
+        width:100%;
+        margin: 0 auto;
+        padding: 100px 0;
+        border:1px solid;
+    }
+    .layout_video iframe {
+        width:100%;
     }
 }
