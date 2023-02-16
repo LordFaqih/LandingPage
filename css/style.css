@@ -364,9 +364,6 @@ html {
     }
     .layout_video {
         width:100%;
-        margin: 0 auto;
-        padding: 100px 0;
-        border:1px solid;
     }
     .layout_video iframe {
         width:100%;
