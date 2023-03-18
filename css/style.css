@@ -283,7 +283,7 @@ html {
     }
     /*Banner*/
     .banner img {
-        width:100%;
+        width:400px;
         box-shadow:0 3px 3px 0 #f9faf8;
     }
     .banner h2 {
